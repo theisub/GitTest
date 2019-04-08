@@ -1,1 +1,1 @@
-commit text file from feature1 branch
+commit text file from hotfix branch
